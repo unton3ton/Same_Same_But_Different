@@ -1,3 +1,19 @@
+![]()
+
+![]()
+
+```bash
+pip install -r requarements.txt
+```
+### server-part
+```bash
+python app.py
+```
+### client-part
+```bash
+pyhton request_img_and_prompt.py
+```
+
 ![](https://raw.githubusercontent.com/unton3ton/Same_Same_But_Different/refs/heads/main/000000039769.jpg)
 
 ![](https://raw.githubusercontent.com/unton3ton/Same_Same_But_Different/refs/heads/main/000000039769.jpg_neuro-1.png)
