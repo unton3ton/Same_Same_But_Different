@@ -1,6 +1,10 @@
-![]()
+![](https://raw.githubusercontent.com/unton3ton/Same_Same_But_Different/refs/heads/main/IMG_20250217_134832_760.jpg)
 
-![]()
+![](https://raw.githubusercontent.com/unton3ton/Same_Same_But_Different/refs/heads/main/IMG_20250217_134833_099.jpg)
+
+```bash
+ollama run llama3.2-vision
+```
 
 ```bash
 pip install -r requarements.txt
